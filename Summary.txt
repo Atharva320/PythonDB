@@ -1,0 +1,19 @@
+Overall information about this whole project
+
+1.Program to add new books in database is done in "AddBook.py" file
+
+2.Program to show list of all books is done in "ShowList.py" file
+
+3.Program to accept category of book and finding it is done in "CategoryFind.py" file
+
+4.Program to accept Book code and new price to update price of book is done in "NewPrice.py" file
+
+5.Program to accept Book code and ask to delete the book is done in "BookDelete.py" file
+
+6.Program to accept Author and Publiaction and to display list of books with author-publication combination is done in "Author-Publication.py" file
+
+7.Program to accept Book code and review and update the record with review is done in "AddReviews.py" file
+
+8.All database queries required is written in "Queries.txt" file
+
+Thank you!!
