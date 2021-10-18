@@ -1,4 +1,0 @@
-CREATE DATABASE bookstoredb;
-
-CREATE TABLE Books( Bookcode varchar(250) primary key, Bookname varchar(250), Category varchar(250), Author varchar(250), Publication varchar(250), Edition varchar(250), Price varchar(250) );
-
