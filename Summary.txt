@@ -16,4 +16,8 @@ Overall information about this whole project
 
 8.All database queries required is written in "Queries.txt" file
 
+9.Two Extra modules are used in this project
+i) pip install PrettyTable
+ii)pip install texttable
+
 Thank you!!
